@@ -1,0 +1,96 @@
+.navbar.navbar-inner {
+    border-bottom: 1px solid #dcdcdc;
+    background-color: rgba(37, 39, 44, 0.94);
+    padding: 15px;
+    box-shadow: 0 2px 2px 0 #c0c0c0;
+    /*border-bottom-left-radius: 0.6em;
+    border-bottom-right-radius: 0.6em;*/
+}
+
+.link .thumb-img {
+    border: 1px solid #e9eaed;
+    border-radius: 5px;
+    padding: 4px;
+    transition: all 0.2s ease-in-out 0s;
+}
+
+.txt_hln {
+    background-color: #eaeaea;
+    color: #222222;
+    text-align: center;
+    margin-top: -12px;
+}
+
+.t-panel {
+    text-align: center;
+    background: #e9eaed;
+    margin-top:-15px;
+    margin-bottom: 3px
+}
+
+.lpt {
+    text-align: center;
+    /*background: #e9eaed;
+    font-size: 2em;
+    line-height: 1.2em;
+    margin-bottom: 10px;*/
+    margin-top: 12px;
+}
+
+/*.row-fluid {
+    margin: 0 auto;
+    display: block;
+    *//*max-width: 88%;*//*
+}*/
+
+/*.getStarted {
+    display: none;
+}
+
+.link {
+    display: block;
+}
+
+a.link:hover .thumbnail{
+    opacity: 0.4;
+}
+
+a.link:hover .getStarted{
+    display: block;
+    position: absolute;
+    z-index: 99;
+}*/
+/*
+.footer {
+    background: none repeat scroll 0 0 #2a2d33;
+   color: #818692;
+    display: block;
+    font-family: MetricWeb-Regular,"Arial Bold",Gadget,sans-serif;
+    width: 100%;
+}*/
+
+
+.ft-panel {
+    border-top: 1px solid #dcdcdc;
+    background-color: rgba(37, 39, 44, 0.94);
+    color: #ffffff;
+   /* border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;*/
+    /*border-top: 1px solid #ddd;*/
+    padding: 15px 15px;
+}
+
+/*
+.description-text {
+    font-size: 5rem;
+}
+
+@media (max-width: 600px) {
+    .description-text {
+       font-size: 1.5rem;
+    }
+}*/
+
+.unstyled {
+    list-style: none;
+}
